@@ -1,11 +1,11 @@
 const fs = require("fs");
 const chalk = require("chalk");
-global.creAtor = "yournumber@s.whatsapp.net";
-global.owner = ["yournumber"];
-global.ownerNumber = ["yournumber@s.whatsapp.net"];
-global.nomerOwner = "yournumber";
-global.namabotnya = "AbotMD";
-global.namaownernya = "Muq";
+global.creAtor = "6281293100679@s.whatsapp.net";
+global.owner = ["6281293100679"];
+global.ownerNumber = ["6281293100679@s.whatsapp.net"];
+global.nomerOwner = "6281293100679";
+global.namabotnya = "Tokito | Bot";
+global.namaownernya = "Zyn";
 global.packname = "© Created By";
 global.author = "AbotMD";
 global.sessionName = "session";
